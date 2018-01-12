@@ -16,19 +16,12 @@ intro:
     charterers who want to remain competitive. The CASPER Service provides KPI's
     for the TEEMP, SEEMP and emission reduction targets.
 products:
-  - image: img/illustrations-coffee.svg
+  - image: /img/page-head-news-detail.jpg
     text: >-
-      We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
-    text: >-
-      We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+      Technical and Commercial executives login to our website and are able to
+      see the Fuel Consumption for any speed, draft and weather combinations and
+      determine how much bunker fuel can be saved right away by conducting
+      maintenance of hull or propeller
 values:
   heading: Where
   text: >-
