@@ -1,7 +1,7 @@
 ---
 title: CASPER
 subtitle: the power for your ship-mile performance
-image: /img/home-jumbotron.jpg
+image: /img/nytbillede.jpg
 blurb:
   heading: About propulsion dynamics
   text: >-
